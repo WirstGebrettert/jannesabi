@@ -1,6 +1,6 @@
 ```python
 ┌──(jannes㉿root)-[~/devlab]
-└─$ cat lotus04.py
+└─$ cat jannesabi.py
 
 class jannesabi:
 
