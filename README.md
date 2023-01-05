@@ -13,8 +13,8 @@ class jannesabi:
 
     def  __social__(self):
         self.thm = "https://tryhackme.com/p/jannes"
-        self.htb = "https://app.hackthebox.com/profile/393184"
-        self.dsc = "jannes#0001"
+        self.htb = https://app.hackthebox.com/profile/393184"
+        self.dsc = "contact me on discord and tell me why you use my name"
     
     def __dev__(self):
         self.skills = {
